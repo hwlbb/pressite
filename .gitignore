@@ -1,0 +1,7 @@
+# 忽略 node_modules 目录
+node_modules/
+
+# 其他全局忽略规则
+.DS_Store
+.env
+dist/
